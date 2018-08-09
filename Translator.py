@@ -1,2 +1,2 @@
 print("Please enter what you would like translated")
-#Now read the text
+#Now read the textcd
