@@ -29,6 +29,6 @@ smallest= min(sizeAr)
 
 print(smallest)
 
-for t in images:
-    t.resize(smallest)
-    print(t.size)
+#for t in images:
+#    t.resize(smallest)
+#    print(t.size)
